@@ -13,6 +13,9 @@
 # - Basic System Info
 # - System Drives Info
 # - BIOS Info
+# - UEFI Info
+# - BitLocker Info
+# - Partitions Info
 # - Processor(s) Info
 # - OS Info
 # - Restart Required/Pending
