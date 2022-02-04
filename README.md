@@ -1,0 +1,1 @@
+# wazuh-windows_agent-inventory
