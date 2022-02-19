@@ -41,6 +41,8 @@ system_services
 
 local_user_accounts
 
+Windows Defender Settings
+
 
 ## Wazuh Capability:
 
